@@ -1,0 +1,16 @@
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.exe
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.deps.json
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.json
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.dev.json
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.dll
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\ref\SectionA.dll
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.pdb
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.AssemblyReference.cache
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.GeneratedMSBuildEditorConfig.editorconfig
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfoInputs.cache
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfo.cs
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.CoreCompileInputs.cache
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.dll
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\ref\SectionA.dll
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.pdb
+F:\2022_Sem1\AdvancedProgramming\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.genruntimeconfig.cache

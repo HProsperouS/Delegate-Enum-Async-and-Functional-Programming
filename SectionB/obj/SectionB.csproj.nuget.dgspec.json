@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionB\\SectionB.csproj": {}
+  },
+  "projects": {
+    "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+        "projectName": "SectionA",
+        "projectPath": "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+        "packagesPath": "C:\\Users\\liuji\\.nuget\\packages\\",
+        "outputPath": "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\liuji\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionB\\SectionB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
+        "projectName": "SectionB",
+        "projectPath": "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
+        "packagesPath": "C:\\Users\\liuji\\.nuget\\packages\\",
+        "outputPath": "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\liuji\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
+                "projectPath": "F:\\2022_Sem1\\AdvancedProgramming\\ASN2_Student_Resource\\SectionA\\SectionA.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
